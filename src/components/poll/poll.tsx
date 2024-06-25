@@ -1,4 +1,3 @@
-import { PollPage } from 'components/poll-page/PollPage';
 import { FC, memo } from 'react';
 
 interface PollProps {
